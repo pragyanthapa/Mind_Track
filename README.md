@@ -9,6 +9,15 @@ FEATURES - MindTrack offers a comprehensive suite of features designed to suppor
 
 <img width="1276" alt="Screenshot 2024-10-13 at 9 07 49 PM" src="https://github.com/user-attachments/assets/16a9d94b-66b2-4e47-bd73-71e60c6aa4c3">
 
+CHATBOT - MindTrack features an AI-powered chatbot that offers 24/7 support to users seeking immediate assistance. Designed to enhance mental well-being, the chatbot is trained to provide empathetic responses tailored to individual needs. Whether you're facing anxiety, stress, or simply need someone to talk to, the chatbot is equipped with a range of coping strategies and resources. Its accessible nature ensures that help is available whenever you need it, making it an invaluable tool for those navigating their mental health journey. This round-the-clock support fosters a sense of connection and reassurance, empowering users to take proactive steps toward better mental health.
+
+
+<img width="587" alt="Screenshot 2024-10-13 at 9 14 30 PM" src="https://github.com/user-attachments/assets/0d15871f-9a26-4064-8dae-f3985e2872ab">
+<img width="487" alt="Screenshot 2024-10-13 at 9 16 15 PM" src="https://github.com/user-attachments/assets/370c1e49-e7ee-4d62-917a-ca4d2b1b2124">
+
+
+
+
 How to get started - 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
