@@ -18,7 +18,9 @@ CHATBOT - MindTrack features an AI-powered chatbot that offers 24/7 support to u
 
 
 
-How to get started - 
+
+
+ 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
