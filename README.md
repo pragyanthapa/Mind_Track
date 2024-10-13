@@ -4,6 +4,8 @@ Ultimately, MindTrack seeks to create a supportive environment that encourages s
 
 Features - MindTrack offers a comprehensive suite of features designed to support users on their mental health journey. With daily check-ins to track mood and mental states, users receive personalized insights from AI analysis. The platform includes a vast library of guided meditations catering to various needs, along with 24/7 support from an AI chatbot that provides empathetic responses and coping strategies. Progress tracking allows users to visualize their mental health journey, set personalized goals, and celebrate achievements. Additionally, MindTrack provides educational resources curated by expert psychologists, customizable reminders for mindfulness practices, and moderated community forums for peer support. Committed to continuous improvement, the team at MindTrack actively integrates user feedback and the latest psychological research to enhance its offerings, ensuring a cutting-edge digital mental health solution.
 
+<img width="1276" alt="Screenshot 2024-10-13 at 9 07 49 PM" src="https://github.com/user-attachments/assets/16a9d94b-66b2-4e47-bd73-71e60c6aa4c3">
+
 How to get started - 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
